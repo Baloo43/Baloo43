@@ -1,0 +1,251 @@
+401;Mes mains vont frapper trois claques, pleine lune !;2
+402;Qu’il revienne, s’il l’ose !;2
+403;Regardez-moi ce tas de feuilles !;2
+404;"Mais à la fin, monsieur, quelle raison avez-vous de haïr Montfleury ?";2
+405;"J’ai deux raisons, dont chaque est suffisante seule.";2
+406;Le vers qu’il faut laisser s’envoler !;3
+407;Les vers du vieux Baro valant moins que zéro, j’interromps sans remords !;4
+408;Et l’argent qu’il va falloir rendre !;1
+409;Attrapez cette bourse au vol, et taisez-vous !;2
+410;Vous avez dit la seule chose intelligente !;1
+411;Il y avait en Westphalie, dans le château de M. le baron de Thunder?ten?tronckh, un jeune garçon à qui la nature avait donné les moeurs les plus douces.;3
+412;Sa physionomie annonçait son âme.;2
+413;"Il avait le jugement assez droit, avec l'esprit le plus simple ; c'est, je crois, pour cette raison qu'on le nommait Candide.";3
+414;Monsieur le baron était un des plus puissants seigneurs de la Westphalie, car son château avait une porte et des fenêtres.;2
+415;Sa grande salle même était ornée d'une tapisserie. ;2
+416;"Tous les chiens de ses basses?cours composaient une meute dans le besoin ; ses palefreniers étaient ses piqueurs ; le vicaire du village était son grand aumônier.";4
+417;Ils l'appelaient tous monseigneur, et ils riaient quand il faisait des contes.;3
+418;Madame la baronne, qui pesait environ trois cent cinquante livres, s'attirait par là une très grande considération, et faisait les honneurs de la maison avec une dignité qui la rendait encore plus respectable.;4
+419;Sa fille Cunégonde, âgée de dix?huit ans, était haute en couleur, fraîche, grasse, appétissante.;2
+420;Le fils du baron paraissait en tout digne de son père.;3
+421;Le précepteur Pangloss était l'oracle de la maison, et le petit Candide écoutait ses leçons avec toute la bonne foi de son âge et de son caractère.;3
+422;Il prouvait admirablement qu'il n'y a point d'effet sans cause, et que, dans ce meilleur des mondes possibles, le château de monseigneur le baron était le plus beau des châteaux et madame la meilleure des baronnes possibles.;3
+423;Remarquez bien que les nez ont été faits pour porter des lunettes, aussi avons?nous des lunettes.;2
+424;Les jambes sont visiblement instituées pour être chaussées, et nous avons des chaussures.;3
+425;Un jour, Cunégonde, en se promenant auprès du château, dans le petit bois qu'on appelait parc, vit entre des broussailles le docteur Pangloss qui donnait une leçon de physique expérimentale à la femme de chambre de sa mère, petite brune très jolie et très docile.;4
+426;"Elle rencontra Candide en revenant au château, et rougit ; Candide rougit aussi ; elle lui dit bonjour d'une voix entrecoupée, et Candide lui parla sans savoir ce qu'il disait.";3
+427;Il s'arrêta tristement à la porte d'un cabaret.;2
+428;Messieurs, leur dit Candide avec une modestie charmante, vous me faites beaucoup d'honneur, mais je n'ai pas de quoi payer mon écot.;3
+429;Non, dit l'un de ces messieurs, nous vous demandons si vous n'aimez pas tendrement le roi des Bulgares.;2
+430;Point du tout, dit?il, car je ne l'ai jamais vu.;3
+431;Candide, tout stupéfait, ne démêlait pas encore trop bien comment il était un héros.;3
+432;Il s'avisa un beau jour de printemps de s'aller promener, marchant tout droit devant lui, croyant que c'était un privilège de l'espèce humaine, comme de l'espèce animale, de se servir de ses jambes à son plaisir.;4
+433;Il n'eut pas fait deux lieues que voilà quatre autres héros de six pieds qui l'atteignent, qui le lient, qui le mènent dans un cachot.;3
+434;On lui demanda juridiquement ce qu'il aimait le mieux d'être fustigé trente?six fois par tout le régiment, ou de recevoir à la fois douze balles de plomb dans la cervelle.;3
+435;"Le régiment était composé de deux mille hommes ; cela lui composa quatre mille coups de baguette, qui, depuis la nuque du cou jusqu'au cul, lui découvrirent les muscles et les nerfs.";3
+436;Comme on allait procéder à la troisième course, Candide, n'en pouvant plus, demanda en grâce qu'on voulût bien avoir la bonté de lui casser la tête.;3
+437;Rien n'était si beau, si leste, si brillant, si bien ordonné que les deux armées.;2
+438;Les trompettes, les fifres, les hautbois, les tambours, les canons, formaient une harmonie telle qu'il n'y en eut jamais en enfer.;3
+439;"Les canons renversèrent d'abord à peu près six mille hommes de chaque côté ; ensuite la mousqueterie ôta du meilleur des mondes environ neuf à dix mille coquins qui en infectaient la surface.";4
+440;La baïonnette fut aussi la raison suffisante de la mort de quelques milliers d'hommes.;3
+441;Enfin, tandis que les deux rois faisaient chanter des Te Deum chacun dans son camp, il prit le parti d'aller raisonner ailleurs des effets et des causes.;3
+442;Des cervelles étaient répandues sur la terre à côté de bras et de jambes coupés. ;2
+443;Candide s'enfuit au plus vite dans un autre village : il appartenait à des Bulgares, et des héros abares l'avaient traité de même.;2
+444;Il demanda l'aumône à plusieurs graves personnages, qui lui répondirent tous que, s'il continuait à faire ce métier, on l'enfermerait dans une maison de correction pour lui apprendre à vivre. ;4
+445;Il s'adressa ensuite à un homme qui venait de parler tout seul une heure de suite sur la charité dans une grande assemblée.;3
+446;Il n'y a point d'effet sans cause, répondit modestement Candide, tout est enchaîné nécessairement et arrangé pour le mieux.;4
+447;"Il a fallu que je fusse chassé d'auprès de Mlle Cunégonde, que j'aie passé par les baguettes, et il faut que je demande mon pain jusqu'à ce que je puisse en gagner ; tout cela ne pouvait être autrement.";5
+448;Tu ne mérites pas d'en manger, dit l'autre.;1
+449;Un homme qui n'avait point été baptisé, un bon anabaptiste, nommé Jacques, vit la manière cruelle et ignominieuse dont on traitait ainsi un de ses frères, un être à deux pieds sans plumes, qui avait une âme.;5
+450;Le lendemain, en se promenant, il rencontra un gueux tout couvert de pustules, les yeux morts, le bout du nez rongé, la bouche de travers, les dents noires, et parlant de la gorge, tourmenté d'une toux violente et crachant une dent à chaque effort.;4
+451;Candide, plus ému encore de compassion que d'horreur, donna à cet épouvantable gueux les deux florins qu'il avait reçus de son honnête anabaptiste Jacques.;4
+452;Elle est arrivée le jour de la rentrée, le 5 septembre.;1
+453;Tout le monde la regardait, parce que dans la classe on est ensemble depuis l’école primaire, alors, évidemment, l’arrivée d’un nouveau ou d’une nouvelle, c’est un événement.;2
+454;Les premiers jours, nous ne lui avons rien dit et elle n’a parlé à personne.;1
+455;Mais moi, je l’ai trouvée très jolie.;1
+456;Elle ne ressemble à aucune des filles que je connais.;1
+457;"Elle n’est pas très grande, elle est toute mince, elle a la peau brune et de très 
+grands yeux clairs remplis de lumière.";1
+458;Mais ce qui est extraordinaire, ce sont ses cheveux !;1
+459;On dirait qu’elle ne les a jamais coupés, et ils forment autour de son visage comme une couronne de boucles noires.;2
+460;J’aime aussi beaucoup sa voix, une voix un peu grave, qu’on n’attend pas chez une fille aussi frêle;2
+461;Mais sa voix, on ne l’a pas beaucoup entendue.;1
+462;Les filles de la classe, il n’y a que la mode qui les intéresse, et les histoires de garçons.;1
+463;Mélanie aime Benoît, qui aime Sonia, qui aime Nicolas, qui aime Mélanie.;0
+464;On n’en sort pas, et moi, j’en ai marre.;1
+465;Elle, la mode, elle l’invente, et les garçons, elle ne s’en occupe pas. ;2
+466;Elle a toujours ses affaires, ce n’est pas le genre de fille à demander sans cesse un taille-crayon, une feuille double, comme certains que je connais.;2
+467;Une fille super, quoi ! J’ai tout de suite eu envie de devenir son ami.;1
+468;Mais devenir l’ami d’une fille super, c’est difficile !;1
+469;J’y arrive à peine maintenant, et nous sommes presque à Noël.;1
+470;Nous nous voyons assez souvent, elle vient même parfois à la maison et nous faisons nos devoirs ensemble.;2
+471;Je l’aide en français et elle me donne un coup de main en anglais, parce que ce n’est pas ma matière préférée …;2
+472;Ou alors, on joue sur mon ordinateur.;1
+473;Ou encore, ce qu’elle préfère : je lui lis des histoires.;1
+474;Je vous ai dit, c’est une fille bizarre.;1
+475;Elle aime les contes et les histoires fantastiques, et de temps en temps, je me dis qu’elle sort tout droit d’une de ces histoires-là.;2
+476;Moi, je ne vais jamais chez elle.;0
+477;Je sais qu’elle vit seule avec son père, mais je ne lui ai jamais demandé pourquoi.;2
+478;Je ne sais pas où est sa mère, ni même si elle vit encore, je ne sais pas si elle a des frères et des sœurs quelque part, je ne sais pas ce que fait son père. ;2
+479;Je sais qu’elle est souvent seule à la maison, et que le soir il rentre très tard.;1
+480;Elle reste tous les jours à la cantine, et j’ai entendu les autres se moquer d’elle, parce qu’elle ne mange presque rien, des fruits, du pain.;2
+481;Et depuis que nous sommes amis : « Elle vit d’amour et d’eau fraîche », ricanent certains dans son dos.;2
+482;"Je lui apporte parfois des bonbons, du chocolat ; au début, elle refusait toujours, maintenant, elle les prend, avec un sourire.";2
+483;Je crois que c’est surtout pour me faire plaisir. ;1
+484;C’est comme ça, d’ailleurs, que nous sommes devenus amis.;1
+485;Un jour, en sport, je prends le ballon sur le nez.;1
+486;Évidemment, mes lunettes sont par terre, et moi, sans mes lunettes, je n’y vois rien, mais alors, rien du tout !;2
+487;Et soudain elle est devant moi, mes lunettes à la main.;1
+488;Alors, je les ai remises et j’ai vu son sourire.;1
+489;C’était presque la première fois, parce qu’elle ne sourit pas très souvent.;2
+490;Mais surtout, ce sourire-là était spécialement pour moi.;1
+491;Au cours suivant, elle est venue s’asseoir à côté de moi.;1
+492;Je suis allé voir où elle habite, sans rien dire à personne.;1
+493;C’est un immeuble gris, pas très loin de l’école et de chez moi.;1
+494;J’ai vu son nom sur la boîte aux lettres.;1
+495;J’ai oublié de vous dire : elle s’appelle Sarah.;1
+496;Ce matin, Sarah est triste.;0
+497;Je veux dire, vraiment triste.;0
+498;On dirait qu’elle a pleuré ou qu’elle va pleurer.;1
+499;Pourtant, comme d’habitude, elle est attentive et calme.;1
+500;Le cours de maths, lui, est beaucoup plus ennuyeux que d’habitude.;1
+501;Ou alors, c’est moi qui ai plus de mal à le supporter parce que j’ai envie de savoir ce qui arrive à Sarah.;2
+502;Heureusement, la récréation arrive vite.;1
+503;Je vois bien que tu es triste, tu ne dis rien, tu ne souris pas.;1
+504;Je ne peux rien te dire, Victor.;0
+505;Je suis désolée.;0
+506;"Elle a les yeux pleins de larmes, et quand je m’approche d’elle pour lui prendre la main, elle recule.";2
+507;Cette année-là, l’hiver est arrivé d’un seul coup avec ses vents, ses brouillards et ses tempêtes de neige.;2
+508;Le ciel était noir.;1
+509;Le jour ressemblait à la nuit.;1
+510;Les humains avaient froid, ils avaient faim aussi.;1
+511;La tribu descendait des Monts Brumeux.;1
+512;Elle allait vers le sud où il faisait moins froid.;1
+513;Les hommes marchaient devant, le vieux Zahor en tête.;1
+514;Ensuite venaient les femmes. ;1
+515;"Elles portaient leurs enfants dans les bras.";1
+516;Derrière le groupe des femmes avançait Saha, la gardienne du feu.;1
+517;La jeune fille portait une petite cage de fer où elle gardait précieusement la flamme.;2
+518;Elle la nourrissait d’herbes sèches et de petits morceaux de bois.;1
+519;Thor, le guerrier courageux, fermait la marche, sa lance de fer dans la main droite à cause des ours sauvages et des loups affamés …;2
+520;La tribu s’arrête un moment pour se reposer en bas des Monts Brumeux. Zahor, le vieux chef, leur montre la grande plaine qu’ils doivent traverser : elle est immense !;2
+521;Tous tremblent de froid et de fatigue.;1
+522;Mais il faut continuer.;1
+523;Cette fois, les femmes et les enfants marchent au milieu du groupe.;1
+524;Les hommes les entourent.;0
+525;Thom et sa mère marchent loin derrière le groupe, en compagnie des chiens sauvages.;1
+526;Quand ils s’approchent trop près de la tribu, les femmes leur jettent des pierres et les hommes les chassent.;2
+527;Dans la tribu, on n’aime pas les enfants sans père, on dit que ce sont les enfants des mauvais esprits.;2
+528;Surtout quand ils sont grands, comme Thom.;1
+529;Les enfants grands sont maudits par les dieux, c’est le vieux Zahor qui l’a dit.;2
+530;Et le vieux chef a toujours raison, car c’est le seul qui parle aux dieux.;2
+531;La mère de Thom est fatiguée par la longue marche.;1
+532;Elle a beaucoup de mal à avancer dans la neige.;1
+533;Son fils l’aide, mais il est encore très jeune : il n’a que treize ans, ce n’est pas encore un guerrier.;1
+534;La tribu s’abrite près d’une grande roche, au milieu de la plaine.;1
+535;La mère et son fils s’installent loin des autres.;1
+536;Les femmes ont préparé un foyer d’herbes sèches et de bois.;1
+537;Saha ouvre la petite cage de fer et souffle sur la flamme en chantant doucement une prière aux dieux.;1
+538;La flamme monte vers le ciel et réchauffe les cœurs et les corps fatigués.;1
+539;Thor, le guerrier courageux, est parti seul dans la neige.;1
+540;Une heure plus tard, il donne à la tribu une chèvre sauvage qu’il vient de tuer.;1
+541;Les hommes la découpent et la placent au-dessus de la flamme.;1
+542;La tribu a maintenant à manger.;1
+543;Tous peuvent reprendre des forces après un long jour de marche. ;1
+544;La chèvre, en cuisant, a une odeur délicieuse. ;1
+545;De loin, Thom observe les hommes découper l’animal et distribuer des morceaux de viande à chacun selon son âge et sa force.;2
+546;Des grosses parts pour les guerriers et pour Zahor, des petites parts pour les femmes et les enfants et enfin les os pour les chiens…;1
+547;Et Thom a faim.;0
+548;Car l’enfant grand n’a pas le droit de partager la nourriture des hommes.;1
+549;À la fin du repas, il doit se battre avec un chien pour ramener à sa mère un os avec un peu de viande autour.;2
+550;Alice aime Jules.;0
+551;Jules aime Alice.;0
+552;Aujourd’hui, c’est leur mariage.;0
+553;Ils sont heureux. ;0
+554;Ils vont habiter tous les deux dans un joli appartement, à Paris.;1
+555;Mais il y a un problème …;0
+556;Alice a un chien.;0
+557;Il s’appelle Albert et il a un an.;0
+558;C’est un gentil bouledogue qui aime les câlins. ;1
+559;Mais aujourd’hui, il a un peu peur.;0
+560;Waf, waf, je veux rentrer à la maison, chez Alice.;0
+561;Jules a une chatte.;0
+562;Elle s’appelle Folio et elle a un an. ;0
+563;Elle ressemble à un bébé tigre, mais c’est un tigre qui a très peur.;1
+564;Miaou, je veux rentrer à la maison, chez Jules.;0
+565;Aujourd’hui, Albert et Folio se rencontrent pour la première fois.;0
+566;Jules et Alice veulent qu’ils se disent bonjour gentiment.;1
+567;Mais les chiens et les chats ne s’aiment pas beaucoup … ;0
+568;Albert et Folio sont heureux avec leurs maîtres, Jules et Alice … mais aujourd’hui, il y a un problème.;1
+569;"Pourquoi on ne peut pas entrer dans la chambre ?";0
+570;Pourquoi on ne peut pas jouer avec Jules et Alice ?;0
+571;Jules fait beaucoup de bruit derrière la porte. ;1
+572;Folio est la gardienne de l’appartement.;0
+573;Mais que fait Jules ?;0
+574;Pouah, ça sent mauvais !;0
+575;Il y a beaucoup de désordre dans l’appartement. ;0
+576;Albert s’amuse.;0
+577;Il a trouvé un copain.;0
+578;Il est bizarre ce chien.;0
+579;Pourquoi il ne parle pas ?;0
+580;Ce matin, Jules et Alice partent très tôt.;0
+581;Il fait encore nuit. ;0
+582;Ils sont pressés.;0
+583;Moi aussi, je veux aller me promener !;0
+584;Tard le soir, Jules rentre tout seul.;0
+585;Il est très joyeux et il siffle.;0
+586;Albert, Folio, venez me faire un gros câlin, je suis si heureux !;0
+587;"Vous allez bientôt avoir une grande surprise !";0
+588;Albert et Folio ont surtout très faim …;0
+589;Tout le monde a bien mangé.;0
+590;Maintenant, Jules et Albert ronflent très fort. ;0
+591;Folio n’arrive pas à s’endormir.;0
+592;Mais où est Alice ?;0
+593;Je suis triste sans elle.;0
+594;C’est peut-être un petit frère, un gentil chien comme moi …;0
+595;C’est peut-être une petite sœur, un gentil chat comme moi …;0
+596;Contrairement à d'autres tribunaux compétents en matière constitutionnelle tels que la Cour suprême des États-Unis, le Conseil constitutionnel français ne se situe au sommet d'aucune hiérarchie de tribunaux, ni judiciaires ni administratifs.;4
+597;Le Conseil constitutionnel français a donc une grande autorité sur l'ensemble des institutions françaises, mais cette autorité est limitée au champ du contrôle de constitutionnalité.;3
+598;Les sénateurs, investis par le suffrage universel indirect de tous les droits et obligations attachés à la fonction parlementaire, sont élus pour six ans par un collège électoral de plus de 160 000 élus.;4
+599;Les sénateurs élus au scrutin majoritaire, dont le siège devient vacant pour cause de décès, d'acceptation des fonctions de membre du Conseil constitutionnel ou de Défenseur des droits ou de prolongation au-delà du délai de six mois d'une mission temporaire confiée par le Gouvernement sont remplacés par les personnes élues en même temps qu'eux à cet effet.;5
+600;Les sénateurs élus au scrutin majoritaire qui acceptent des fonctions gouvernementales sont remplacés, jusqu'à l'expiration d'un délai d'un mois suivant la cessation de ces fonctions, par les personnes élues en même temps qu'eux à cet effet.;4
+601;Le sénateur élu à la représentation proportionnelle dont le siège devient vacant pour toute autre cause que l'acceptation de fonctions gouvernementales est remplacé par le candidat figurant sur la même liste immédiatement après le dernier candidat devenu sénateur conformément à l'ordre de cette liste.;4
+602;Le caractère temporaire du remplacement pour cause d'acceptation de fonctions gouvernementales s'applique au dernier candidat devenu sénateur conformément à l'ordre de la liste.;4
+603;Un arrêté préfectoral indique pour chaque commune le mode de scrutin ainsi que le nombre des délégués et suppléants à élire.;4
+604;À l’issue de l’élection, un compte de campagne retraçant l’ensemble des recettes et des dépenses électorales est déposé auprès de la Commission nationale des comptes de campagne et des financements politiques qui en contrôlera la véracité.;4
+605;Le montant des dépenses électorales est plafonné, sous réserve d’aménagements pour les circonscriptions particulières.;4
+606;Soulignant, en préambule, la manière très différente dont le projet avait été abordé par l'Assemblée nationale et par le Sénat, M. Bernard Roman, rapporteur pour l'Assemblée nationale a considéré que cette divergence de fond était peu propice à la poursuite d'une discussion fructueuse en commission mixte paritaire.;5
+607;Evoquant les conditions d'examen concomitantes au Sénat du présent projet de loi et des projets de loi relatifs à la limitation du cumul des mandats, il s'est élevé contre le choix du Sénat de lier, par le biais d'un marchandage choquant, sa décision de rétablir un seuil de 3 500 habitants pour l'application aux conseillers municipaux de la limitation du cumul des mandats, avec celle, prise par l'Assemblée nationale, dans le projet sur la parité, d'abaisser à 2 000 habitants le seuil à partir duquel les élections municipales auraient lieu au scrutin de liste majoritaire à deux tours.;5
+608;Observant que, à l'exception du changement de mode de scrutin pour les communes dont la population est comprise entre 2 000 et 3 500 habitants, le texte issu des travaux de l'Assemblée nationale avait recueilli une approbation presque unanime de tous les groupes de cette assemblée, le rapporteur a souhaité rappeler que la démarche suivie par les députés, consistait à mettre en oeuvre des solutions permettant d'optimiser la présence des femmes dans la vie politique.;4
+609;Déplorant que le Sénat ait préféré, au contraire, en rester aux dispositions initiales du projet de loi, il a conclu en constatant qu'il semblait, dans ces conditions, difficile de trouver une conciliation permettant d'aboutir à un accord en commission mixte paritaire.;5
+610;Il a d'ailleurs souligné que le ministre de l'Intérieur n'avait pu que se satisfaire du soutien actif du Sénat à son projet de loi, contrairement à la position critique adoptée par l'Assemblée nationale.;4
+611;Il a, en revanche, regretté que l'engagement pris par le Premier ministre, lors du débat constitutionnel, sur les modes de scrutin n'ait pas été respecté.;4
+612;Il a donc rejeté tout changement de mode de scrutin qui introduirait des mécanismes partisans et abstraits dans ces collectivités où l'appartenance politique des élus est fort peu prise en compte.;4
+613;Réaffirmant que le Sénat ne s'était livré à aucun chantage contrairement aux allégations du rapporteur pour l'Assemblée nationale, il a, au contraire, affirmé que la position de la Haute Assemblée relevait d'une conception cohérente et constante de la société.;4
+614;Rappelant que les propos du Premier ministre tenus lors du Congrès sur la révision constitutionnelle relative à la parité portaient sur les modes de scrutin de manière générale, tout en insistant particulièrement sur les élections législatives, M. Guy Cabanel, rapporteur pour le Sénat, a regretté que le texte adopté par l'Assemblée nationale ne démente ces propos en procédant à une manipulation du mode de scrutin municipal.;5
+615;Bien que, en ce sens, différentes réactions synthétiques puissent avoir lieu indépendamment des êtres vivants, il est d'usage de ne désigner par ce mot que la capacité des végétaux chlorophylliens à assimiler le dioxyde de carbone ou gaz carbonique, à la lumière, avec formation de substances organiques.;4
+616;Plus précisément, la photosynthèse comprend l'utilisation de l'énergie lumineuse pour la réduction du dioxyde de carbone par l'eau, donneur d'hydrogène, avec synthèse de glucides et libération d'oxygène.;4
+617;Cette réaction est réalisée dans des organites intracellulaires spécialisés, les chloroplastes, porteurs de pigments photorécepteurs, tels que les chlorophylles, les caroténoïdes.;4
+618;La réduction du dioxyde de carbone par l'eau nécessite un apport d'énergie assez élevé.;3
+619;L'originalité du mécanisme est d'utiliser des photons et de les convertir en énergie chimique qui se retrouve dans l'énergie de liaison des atomes de carbone et d'hydrogène dans les glucides formés.;4
+620;Huit photons au moins sont nécessaires pour permettre la réduction d'une molécule de dioxyde de carbone par l'eau.;3
+621;Les Cyanobactéries se distinguent des Bactéries par la présence de chlorophylle A et de pigments accessoires hydrosolubles, les phycobilines rouge et bleue.;4
+622;Certaines espèces présentent une adaptation chromatique à la vie en eau profonde grâce à des variations du rapport phycoérythrine : phycocyanine.;4
+623;Par ressource, dans la perspective de ce travail, j’entends ainsi le processus relationnel et variable, entre un objet et des usagers, lesquels en retirent des biens et services variés. ;4
+624;Le gène est une ressource pour le processus métabolique concerné et les contraintes qui sont, de ce point de vue, pertinentes sont celles de la chimie, de la physique et de la biologie.;4
+625;De Buren exprime ces différents points de vue sur la ressource à travers une triple définition du concept : la ressource institutionnelle, telle qu’elle perçut au travers des règles qui encadrent ses usages, la ressource physique perçue au travers des fonctions qu’elle remplit et finalement la ressource sociale, lorsqu’elle est envisagée au travers des relations, qui se nouent entre ses usages. ;5
+626;Grâce aux progrès réalisés dans le domaine des biotechnologies depuis les années 1970, des usages à un niveau plus « fondamental » sont possibles, à l’échelle non seulement infracellulaire, mais infranucléaire des organismes : les usages directs de leurs génomes.;5
+627;Les méthodes de la biologie synthétique, qui aboutissent à la création artificielle de systèmes ou de composants biologiques en ajoutant des séquences artificielles d’ADN à un « châssis » génétique naturel minimal ou en assemblant des segments d’ADN artificiel pour créer de toutes pièces un système fonctionnel. ;5
+628;Par exemple au moyen de la technique de l’haplodiploïdisation, qui permet de fixer plus rapidement les caractères génotypiques que par la sélection classique.;5
+629;L’haplodiploïdisation, en revanche, permet d’obtenir directement une lignée haploïde et donc pure, présentant les traits désirés.;5
+630;"Cette lignée est ensuite diploïdée au moyen d’un traitement chimique, pour la rendre fertile.";5
+631;Auparavant, la duplication de l’ADN se faisait par clonage moléculaire : la séquence d’intérêt était insérée dans le génome d’une bactérie et l’on se servait du taux de croissance élevé du micro-organisme pour obtenir autant de clones de la séquence d’ADN.;5
+632;En plus de son rôle, si important pour la recherche en génétique et en biologie moléculaire, de « pourvoyeur » de quantité illimitée d’ADN à partir d’un infime échantillon, la PCR s’avérera un outil indispensable notamment au diagnostic de plusieurs maladies et à la génétique forensique.;5
+633;Dans ces cas, qui représentent l’exception plutôt que la règle en Suisse, l’autorité cantonale s’est dotée de plans directeurs très précis qualifiables de plans de « pré?affectation », lesquels limitent fortement la marge de manœuvre communale car ils quantifient la surface du territoire d’urbanisation à l’hectare près. ;5
+634;Le deuxième profil représente les cantons qui ont des instruments de contingentement spatial à l’apparence similaires à ceux du premier groupe, mais qui sont utilisés avec une précision moindre et ouvrant plus facilement la porte à des exceptions et à des modifications des limites des zones constructibles.;5
+635;Il y a là un plus grand équilibre entre le rôle que les communes jouent à travers la planification d’affectation et celui des cantons qui limitent les « excès » en termes d’utilisation du sol à travers une planification directrice plus ou moins restrictive en termes de nouvelles extensions urbaines.;5
+636;Un aspect qui différencie ces deux premiers profils cantonaux des autres, c’est le caractère de « planification positive » qu’ont ces instruments de contingentement spatial : ils indiquent un objectif, un état souhaitable en termes d’extension maximale des surfaces urbanisées à un horizon temporel donné.;5
+637;Dans d’autres cas il s’agit de limites relatives, basées sur un taux de croissance démographique de référence, valables là aussi uniquement hors centres ou pondérées en fonction du degré de centralité.;5
+638;Celle-ci est idéalement réduite dans la mesure du possible à travers la définition de critères de classification clairs et par la triangulation des points de vue des experts du domaine.;3
+639;C’est dans cette logique que la construction de l’indice a été discutée dans un premier temps avec l’auteur de l’analyse originale, analyse qui n’était pas conçue au départ dans le but de créer un indicateur catégoriel ordinal, et qui a dû pour cela être affinée. ;5
+640;La première limite est que les instruments de contingentement spatial pris en compte donnent une idée de la maîtrise « potentielle » de l’urbanisation, maîtrise dérivant des possibilités fournies par le cadre légal et stratégique dont chaque canton s’est doté.;5
+641;La deuxième limite de l’indicateur est liée au fait que l’accent est mis sur les aspects substantiels des politiques cantonales d’aménagement du territoire en matière de maîtrise de l’urbanisation, et moins sur les aspects procéduraux.;5
+642;Il apparait donc que l’accent mis sur la présence et la nature d’instruments de contingentement spatial risque de cacher, dans les cas d’Argovie et Soleure, la facilité procédurale avec laquelle le territoire d’urbanisation indiqué dans le plan directeur peut être modifié.;5
+643;Cet indice, basé sur la formule de Herfindahl?Hirschmann utilisée dans le domaine de l’économie comme mesure de la concentration du marché, représente dans notre cas le degré de fragmentation, ou vice?versa de consolidation, de la structure institutionnelle des cantons.;5
+644;Des variations significatives de cet indice sur une période inférieure à plusieurs décennies sont peu probables en l’absence de réformes territoriales conséquentes, ce qui a été rarement le cas en Suisse après 2000 en comparaison internationale.;5
+645;L’analyse des valeurs de l’indice de consolidation institutionnelle montre également le caractère très fragmenté du maillage communal suisse en comparaison européenne.;5
+646;Cependant, au vu de la grande inertie liée au développement urbain et aux cycles d’aménagement du territoire, cela n’affaiblit pas la validité de l’analyse.;5
+647;De plus, l’évolution dans le temps des phénomènes engendre davantage des changements absolus dans les données que des changements relatifs impliquant des modifications du classement des cantons, aspect plus important dans une démarche de comparaison transversale comme la nôtre.;5
+648;Je vais à la gare.;0
+649;Nous allons à la plage.;0
+650;Je mange à la cantine.;

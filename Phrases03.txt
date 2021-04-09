@@ -1,0 +1,249 @@
+651;Je prends le train.;0
+652;Vous prenez la voiture.;0
+653;Ils y vont à pied.;0
+654;Elle pense à lui.;0
+655;Il regarde la télévision.;0
+656;Tu fais tes devoirs.;0
+657;Tu rêves de partir.;0
+658;Je parle beaucoup.;0
+659;J'écris un peu.;0
+660;Nous courons tous les jours.;0
+661;Elle fait ses courses.;0
+662;Il achète des légumes et des fruits.;0
+663;Nous partons en voyage au Japon.;0
+664;Je reste avec toi.;0
+665;Elle aime beaucoup dessiner.;0
+666;Il crée des robots.;0
+667;Chaque soir de mon enfance, je rentrais à la maison poursuivi par l'école.;2
+668;"J'ai toujours entendu dire qu'il m'avait fallu une année entière pour retenir la lettre ""a"".";3
+669;La rivière coulait entre des falaises.;2
+670;Pour se retrouver, ils avaient appris à siffler entre leurs doigts.;2
+671;Deux messieurs d'un certain âge se promènent le long d'une rivière.;2
+672;Ils ne trouvent pas qui c'est, alors ils nous font tous payer, c'est dégueulasse !;2
+673;Elle me demande ce que j'aimerais qu'il fasse plus tard.;2
+674;À force de me l'entendre répéter je m'étais fait une représentation assez précise de cette vie sans futur.;3
+675;Vous ne vous rendez pas compte, monsieur, j'ai douze ans et demi, et je n'ai rien fait.;2
+676;Il faudrait inventer un temps particulier pour l'apprentissage.;2
+677;Et la grande personne était bien contente de connaître un homme aussi raisonnable.;2
+678;C'était pour moi une question de vie ou de mort.;2
+679;J’étais bien plus isolé qu’un naufragé sur un radeau au milieu de l’Océan.;3
+680;Je regardai donc cette apparition avec des yeux tout ronds d’étonnement.;2
+681;Quand le mystère est trop impressionnant, on n’ose pas désobéir.;2
+682;Le petit prince, qui me posait beaucoup de questions, ne semblait jamais entendre les miennes.;2
+683;Il hochait la tête doucement tout en regardant mon avion.;2
+684;Puis, sortant mon mouton de sa poche, il se plongea dans la contemplation de son trésor.;3
+685;J’éprouve tant de chagrin à raconter ces souvenirs.;2
+686;Mais je ne suis pas tout à fait certain de réussir.;2
+687;Tout d'un coup, il proteste contre un monsieur bleu.;2
+688;Il abandonna d'ailleurs rapidement la discussion pour se jeter sur une place devenue libre.;2
+689;Ce n'était ni un bateau, ni un avion, mais un moyen de transports terrestre.;2
+690;Deux heures plus tard, je le revis devant la gare Saint-Lazare, ce jeune homme que j'avais remarqué sur la plate-forme d'un autobus de la ligne S, ce jour même, vers midi.;3
+691;De cette première rencontre, j'ai un souvenir aussi confus que précis.;2
+692;La dame du premier étage, sans doute la même qui m'a parlé au téléphone, me dit que Monsieur Lindon m'attend dans son bureau.;2
+693;Je tombe sur une dame aimable qui a l'air au courant de mon affaire.;2
+694;J'envoie donc mon manuscrit par la poste à quelques éditeurs qui, tous, le refusent.;2
+695;Il me pose quelques questions sur ma vie, j'ai peur de ne dire que des sottises et je réponds à peine.;2
+696;J'ai écris un roman, c'est le premier, je ne sais pas si c'est le premier, je ne sais pas si j'en écrirai d'autres.;2
+697;De 2009 à 2019, l’entreprise a enregistré un bénéfice net annuel moyen de 73 millions de francs.;2
+698;Une modification de la loi sur l’aéroport a également été validée mercredi par les autorités genevoises.;2
+699;L’aéroport de Genève multiplie les emprunts, alors que le trafic sur son tarmac demeure quasiment à l’arrêt.;2
+700;Les Suisses ont tendance à vivre seuls dans leur logement.;2
+701;Les plus de 65 ans sont ceux qui dépensaient le moins pour leur logement, que ce soit pour des raisons financières, ou grâce à des baux de longue durée.;3
+702;La proportion de familles monoparentales a le plus augmenté depuis 2010, tous types de ménages confondus.;2
+703;Spotify va aussi ouvrir sa plateforme aux podcasts payants dans les mois à venir.;2
+704;A fin 2020, Spotify comptait 345 millions d'utilisateurs actifs, dont 155 millions à la formule payante, ce qui en faisait, de très loin, la première plateforme de musique en ligne au monde.;2
+705;Dans tous ces nouveaux pays d'implantation, Spotify proposera les deux formules de son offre, l'une gratuite, l'autre payante.;2
+706;La plateforme mettra à disposition l'ensemble de son catalogue musical et dit vouloir collaborer avec des acteurs locaux pour pouvoir élargir son offre de musique issue du marché concerné.;3
+707;Voilà un mois de février avec des températures fort printanières.;2
+708;Cette douceur contraste avec les températures sibériennes d'il y a une semaine.;2
+709;La police vaudoise a installé des barrages filtrants pour dissuader les automobilistes de rejoindre ces stations.;2
+710;Le numéro un mondial a facilement remporté la finale, en seulement trois manches et à peine deux heures de jeu.;2
+711;C’est, de manière plus générale et de façon indiscutable, le meilleur joueur du monde.;2
+712;A propos de pansement, Djokovic en portait toujours un, imposant, sur le côté droit de sa sangle abdominale.;3
+713;Ce n’est une surprise pour personne: avec le semi-confinement et le télétravail, les conflits entre voisins ont augmenté.;2
+714;C’est donc une méthode qui suppose une capacité d’écoute, de réflexion et une bonne disposition d’esprit.;2
+715;Ensuite, pour qu’il y ait médiation, il faut que les deux parties soient d’accord.;2
+716;Il s’agit d’un processus volontaire et tourné vers l’avenir, qui permet aux deux parties de trouver une issue, leur issue.;2
+717;Et il regardait tous ces hommes attablés et buvant, tous ces hommes qui pouvaient se désaltérer tant qu’il leur plaisait.;3
+718;Dans ton bureau, au moins, tu es caché, personne ne te connaît, tu peux en sortir, si tu es fort, et faire ton chemin.;3
+719;Et on les enferma dans une petite boîte en bois, découverte, tapissée de rouge, et qui contenait quatre chaises de même couleur, si rapprochées qu’on pouvait à peine se glisser entre elles.;3
+720;Et, tournant à gauche, ils pénétrèrent dans une espèce de jardin couvert, que deux grandes fontaines de mauvais goût rafraîchissaient.;3
+721;Il se tut une seconde, puis reprit, avec ce ton rêveur des gens qui pensent tout haut : c’est encore par elles qu’on arrive le plus vite. ;3
+722;Il la sentait défectueuse en tout, par les bottines non vernies mais assez fines cependant, car il avait la coquetterie du pied, par la chemise de quatre francs cinquante achetée le matin même au Louvre, et dont le plastron trop mince ce cassait déjà.;3
+723;"Il aurait vidé de même une barrique entière, lui semblait-il ; il aurait mangé un bœuf, étranglé un lion.";3
+724;Il revoyait en souvenir la jolie cité claire, dégringolant, comme une cascade de maisons plates, du haut de sa montagne dans la mer, mais il ne trouvait plus un mot pour exprimer ce qu’il avait vu, ce qu’il avait senti.;3
+725;Il y était venu, son temps expiré, malgré les prières du père et de la mère, qui, leur songe envolé, voulaient le garder maintenant.;3
+726;Les reliures de tons différents, rouges, jaunes, vertes, violettes, et bleues, mettaient de la couleur et de la gaieté dans cet alignement monotone de volumes.;3
+727;"À ces mots le Corbeau ne se sent pas de joie ; et pour montrer sa belle voix, il ouvre un large bec, laisse tomber sa proie.";4
+728;Deux Mulets cheminaient, l’un d’avoine chargé, l’autre portant l’argent de la gabelle.;3
+729;"Il était une fois une petite fille de village, la plus jolie qu'on eût su voir ; sa mère en était folle, et sa mère-grand plus folle encore.";4
+730;Là-dessus, au fond des forêts, le Loup l’emporte et puis le mange, sans autre forme de procès. ;3
+731;Un jeune Enfant dans l’eau se laissa choir en badinant sur les bords de la Seine.;3
+732;Un Chat, nommé Rodilardus, faisait de rats telle déconfiture, que l’on n’en voyait presque plus, tant il en avait mis dedans la sépulture.;5
+733;Ce qu’on donne aux méchants, toujours on le regrette : pour tirer d’eux ce qu’on leur prête, il faut que l’on en vienne aux coups;3
+734;Un ânier, son sceptre à la main, menait, en empereur romain, deux coursiers à longues oreilles.;3
+735;Cependant il advint qu’au sortir des forêts, ce Lion fut pris dans des rets, dont ses rugissements ne le purent défaire.;3
+736;Emmenez avec vous les souffleurs tout d’un temps : vous ne méritez pas plus de foi que ces gens.;3
+737;Les canards eurent là une belle occasion de pondre des œufs de toute couleur.;3
+738;Ils ne virent rien, si ce n’est un fort remous qui brisait à trois encablures, comme si les nappes liquides eussent été violemment battues. ;4
+739;Il marchait avec une vitesse de treize nœuds quarante-trois centièmes sous la poussée de ses mille chevaux-vapeur. ;3
+740;D’autres ont été arrachées, non sans peine, de carènes de vaisseaux qu’elles avaient percées d’outre en outre, comme un foret perce un tonneau. ;5
+741;Les masses liquides transportent les plus grandes espèces connues de mammifères, et peut-être recèlent-elles des mollusques d’une incomparable taille, des crustacés effrayants à contempler, tels que seraient des homards de cent mètres ou des crabes pesant deux cents tonnes !;3
+742;Plus d’un s’imposait un quart volontaire dans les barres de perroquet, qui eût maudit une telle corvée en toute autre circonstance.;4
+743;Ce précieux instrument, d’origine américaine, envoyait, sans se gêner, un projectile conique de quatre kilogrammes à une distance moyenne de seize kilomètres.;3
+744;"Que le vulgaire croie à des comètes extraordinaires qui traversent l’espace, ou à l’existence de monstres antédiluviens qui peuplent l’intérieur du globe, passe encore, mais ni l’astronome, ni le géologue n’admettent de telles chimères.";5
+745;"Je crois à l’existence d’un mammifère, puissamment organisé, appartenant à l’embranchement des vertébrés, comme les baleines, les cachalots ou les dauphins, et muni d’une défense cornée dont la force de pénétration est extrême.";4
+746;Ce qui équivaut à dire que si vous pouviez atteindre cette profondeur dans l’océan, chaque centimètre carré de la surface de votre corps subirait une pression de mille kilogrammes.;3
+747;Ça y est, j’étais un homme, j’avais été baptisé entre les cuisses d’une femme, je tenais à peine sur mes pieds tant mes jambes tremblaient encore et les ennuis commençaient : j’avais oublié le fameux petit cadeau.;4
+748;"Les femmes veulent vérifier si elle est aussi bien qu’on le dit ; les hommes ne pensent plus, ils ont le discursif qui s’est coincé dans la fermeture de la braguette.";4
+749;Grâce à l’intervention de monsieur Ibrahim, le monde des adultes s’était fissuré, il n’offrait pas le même mur uniforme contre lequel je me cognais, une main se tendait à travers une fente.;3
+750;Il était clos dans les murs de sa science, il ne faisait pas plus attention à moi qu’à un chien – d’ailleurs, il détestait les chiens –, il n’était même pas tenté de me jeter un os de son savoir.;3
+751;Je me disais que je pourrais ouvrir les fenêtres, que les murs pouvaient être plus clairs, je me disais que je n’étais peut-être pas obligé de garder ces meubles qui sentaient le passé, pas le beau passé, non, le vieux passé, le rance, celui qui pue comme une vieille serpillière.;3
+752;Évaluant l’intérêt croissant porté à son récit, l’homme de Barbès sirotait une tasse de thé, étalait son sourire édenté et continuait, d’une voix encore plus vive.;3
+753;En se mordillant la joue, l’homme de Barbès se jetait dans son lit, soulagé d’avoir réussi, une fois de plus, à préserver, mieux, à consolider son rang.;3
+754;Perpétuel clandestin, c’est muni d’un faux titre de séjour, photocopie de la carte de résident d’un copain-complice, qu’il avait ensuite sillonné l’Hexagone, au bon vouloir d’employeurs peu scrupuleux.;4
+755;Doux comme un agneau, ses mâchoires carrées lui dessinèrent bientôt un profil de gardien.;3
+756;Le sceptre à la main, comment aurait-il pu avouer qu’il avait d’abord hanté les bouches du métro, chapardé pour calmer sa faim, fait la manche, survécu à l’hiver grâce à l’Armée du Salut avant de trouver un squat avec ses compagnons d’infortune ?;4
+757;D'ailleurs, si Socrate accouchait les esprits, c'est bien parce que ceux-ci n'étaient pas vides.;3
+758;Exilée en permanence, je passe mes nuits à souder les rails qui mènent à l'identité.;4
+759;La larme à l’œil, on se résigne à constater que les masques qu'on leur avait taillés ne s'ajustent plus.;3
+760;Ils en arrivaient même à oublier qu'à leur propos on ne parle jamais de reconnaissance ni d'une simple citoyenneté, mais de tolérance et d'intégration au moule d'une société-tamis où ils ne sont que les grumeaux.;4
+761;Je préfère le mauve, cette couleur tempérée, mélange de la rouge chaleur africaine et du froid bleu européen.;3
+762;Aucun filet ne saura empêcher les algues de l'Atlantique de voguer et de tirer leur saveur des eaux qu'elles traversent.;3
+763;Le départ est le seul horizon offert à ceux qui cherchent les mille écrins où le destin cache les solutions de ses mille erreurs.;4
+764;"Je cherche mon territoire sur une page blanche ; un carnet, ça tient dans un sac de voyage.";3
+765;Partir, c'est mourir d’absence.;3
+766;Chaque miette de vie doit servir à conquérir la dignité.;4
+767;Je commande du poisson avec de la purée.;0
+768;Je vais ensuite prendre ma douche dans ma salle-de-bain.;1
+769;Il est l’heure de déjeuner !;0
+770;Cet après-midi, mes amis et moi allons au cinéma.;0
+771;J’ai passé une très bonne journée de vacances.;0
+772;Ma famille se compose de quatre personnes.;0
+773;Les enfants aiment faire du vélo avec leur grand-père après l’école.;0
+774;Ma fille fait parfois des gâteaux avec sa grand-mère le samedi après-midi.;0
+775;Nous vivons dans une jolie maison avec un grand jardin.;0
+776;Nous jouons dans le jardin quand il fait beau ou dans la maison quand il pleut.;0
+777;Ma sœur préfère aller à la plage pour lire et bronzer.;0
+778;J’espère qu’il y aura beaucoup de soleil.;0
+779;Je n’aime pas la pluie, surtout pendant les vacances.;0
+780;Je m’appelle Hugo et j’ai seize ans.;0
+781;Aujourd’hui, avec mes parents et ma sœur nous partons en voyage.;0
+782;Le rouge est une couleur vive.;0
+783;Le violet se retrouve chez de nombreuses fleurs comme le lilas.;0
+784;Le jaune est la couleur des bananes, du maïs ou des poussins par exemple.;0
+785;Enfin, on trouve aussi le blanc, comme la neige, et le noir, comme la nuit.;0
+786;Le rouge, le jaune et le bleu sont les trois couleurs primaires.;0
+787;J'habite une belle ville dans le nord de la France.;0
+788;Il y a un quartier très agréable pour aller se balader, lorsqu'il fait beau.;1
+789;Il est possible de faire du vélo dans un parc autour d'une citadelle fortifiée.;1
+790;Il est agréable de marcher dans les petites rues pour admirer l'architecture des maisons anciennes.;1
+791;Pour se déplacer, il y a des bus, des vélos et un métro. ;0
+792;L’automne débute fin septembre.;0
+793;C’est le moment de sortir son manteau et son parapluie !;0
+794;Le paysage devient tout blanc à cause de la neige et de la glace.;0
+795;Avec le printemps, qui commence en mars, le soleil est de retour et le temps se réchauffe.;0
+796;Enfin, l’été arrive à la fin du mois de juin. ;0
+797;Pierre est un jeune garçon de 14 ans.;0
+798;Il vit à Paris avec ses parents et sa petite sœur Julie, âgée de 8 ans.;0
+799;Le week-end, Pierre aime passer du temps en famille.;0
+800;Toute la petite famille habite dans un grand appartement au 3ème étage d'un immeuble situé près de la Tour Eiffel.;1
+801;Ainsi, Pierre a le privilège d'admirer chaque jour l'un des monuments les plus visités au monde !;1
+802;Non, j’ai terminé mes études en juin dernier.;0
+803;J’aimerai beaucoup venir et goûter tes recettes !;1
+804;Je serai ravi de t’accueillir.;1
+805;Non, elle est fleuriste.;0
+806;J’ai hâte de la rencontrer.;0
+807;Comment t'appelles-tu ?;0
+808;Ne t'inquiète pas, tu vas vite t'habituer à ta nouvelle vie.;1
+809;J'imagine que les week-ends doivent être bien remplis !;0
+810;Les activités ne manquent pas !;0
+811;On pourra se faire un cinéma ou un bowling à l'occasion si tu veux ?;1
+812;Je m'appelle Angélica Summer, j'ai 12 ans et je suis canadienne.;0
+813;La vie en France est très différente de celle au Canada.;0
+814;Ici, il fait toujours chaud.;0
+815;Les Français sont très sympathiques et accueillants.;0
+816;Nous avons déménagé en France, parce qu'elle a toujours aimé la culture de ce pays.;1
+817;Je crains que la table ne soit pas encore disponible.;1
+818;Si vous voulez attendre au bar, on vous appellera quand ce sera prêt.;1
+819;Désolé pour le retard, nous sommes très occupés ce soir.;1
+820;Si vous voulez venir avec moi, je vous montrerai votre table.;1
+821;Excusez-moi, serait-il possible de changer de table ?;1
+822;Souvent, le soir, il pratique une activité musicale : le piano.;1
+823;Le vendredi, la classe dure toute la journée mais elle est souvent plus courte pour laisser les élèves en week-end plus tôt.;1
+824;La journée est longue pour David qui attend le samedi toute la semaine.;1
+825;Le samedi, il dispute des matchs de football avec son club dans le cadre de compétitions régionales.;1
+826;Le dimanche, il se repose et en profite pour faire ses devoirs pour la semaine.;1
+827;J'en profite pour me baigner à la rivière avec mes cousins presque tous les jours !;1
+828;Mes grands-parents possèdent 11 poules, 1 coq, 2 cochons, 5 canards, 2 chiens, 3 chats et 1 poney.;0
+829;En plus des animaux, il faut aussi s'occuper du potager de mon papy.;1
+830;Au programme des activités, on a : randonnées, baignade à la rivière, pique-nique en famille, équitation et travail à la ferme.;1
+831;Je te dis à très bientôt pour une rentrée des classes en pleine forme !;1
+832;Il reste au lit un quart d’heure dans le noir avant de se lever, pour faire durer la nuit.;1
+833;Tous les matins, il suit la même routine : il commence par se laver le visage avant de prendre une douche.;1
+834;Ensuite, il se sèche très vite les cheveux pour aller manger son petit déjeuner.;1
+835;Après son repas, il retourne à la salle de bain pour se brosser les dents et pour aller aux toilettes.;1
+836;Une fois qu’il a tout fini, Théo peut enfin aller jouer et s’amuser avant de dîner avec ses parents.;1
+837;En été comme en hiver, les gens se bousculent dans ces endroits fantastiques remplis de boutiques variées et d'animations diverses.;2
+838;Le centre commercial est l'endroit idéal pour passer un bon moment avec sa famille, ses amis ou ses collègues de travail.;1
+839;En effet, même si vous ne souhaitez pas acheter quelque chose, il est toujours intéressant de passer du temps dans les centres commerciaux.;2
+840;Côté magasins, on peut trouver de tout dans un centre commercial : hypermarchés, boutiques de vêtements, etc.;1
+841;Vous ne risquerez pas de vous ennuyer dans un lieu aussi animé.;1
+842;Ils décident d’aller au marché pour acheter les ingrédients qu’ils vont cuisiner.;1
+843;Ils ont besoin d’une salade verte, de 6 tomates, de 3 œufs, de crème fraiche et de jambon.;0
+844;Ils prennent donc leur voiture rouge et conduisent jusqu’à la place du village.;1
+845;Ils mettent tous leurs achats dans un grand sac puis, ils rentrent dans leur maison.;1
+846;Clément et Manon ont très faim et la pendule du salon sonne midi.;1
+847;Ce sont des jours fériés, c’est-à-dire des jours pendant lesquels on ne travaille pas.;1
+848;Des feux d’artifices et des défilés militaires sont organisés.;1
+849;Les familles se réunissent et partagent un bon repas le soir du 24 décembre, et on s’offre des cadeaux.;1
+850;À Pâques, les parents cachent des oeufs en chocolat dans la maison et le jardin, et les enfants s'amusent à les chercher.;2
+851;"Le jour de l’An correspond au 1 janvier ; on le fête avec ses amis ou sa famille, et on souhaite « bonne année ! » à ses proches.";1
+852;Je voulais être professeur et enseigner les mathématiques.;1
+853;Il pensait qu'un chef pouvait manger des pizzas et des frites tous les jours.;1
+854;Puis, plus grand, je découvrais les métiers de policier et d'avocat dans un film.;1
+855;Mais le monde ne fonctionne pas toujours ainsi.;1
+856;Pourtant, quand on était petits, il détestait aller chez le dentiste.;1
+857;La semaine, je me lève à six heures du matin et mon mari à huit heures.;1
+858;Notre garçon de sept ans, et nos jumelles de quatre ans se lèvent quand ils veulent, mais pas plus tard que dix heures.;1
+859;Nous aimons prendre le petit-déjeuner en famille et vers onze heures, nous nous rendons au marché.;1
+860;Ce sont elles qui les comptent et les mettent dans notre panier.;1
+861;Il n'aime pas donner les billets de vingt ou de cinquante euros.;1
+862;Elle est plus jolie que celle que j’avais avant.;1
+863;Ma nouvelle maison est blanche avec des volets bleus et des fleurs rouges.;1
+864;Mon chat adore se blottir sur le canapé devant la télévision.;1
+865;J’ai décidé de peindre les murs en jaune et d’y installer mon piano.;1
+866;À gauche, c’est ma salle de bain, avec vue sur mon jardin.;1
+867;L'intensité carbone de la Suisse est certes modérée, grâce à une faible intensité énergétique et à une production d'électricité presque totalement décarbonée. ;4
+868;Avec l'arrivée à l'âge de la retraite de la génération du baby-boom et l'augmentation de l'espérance de vie, la part des personnes de 65 ans et plus dans la population atteindra 30 % dans les décennies à venir.;3
+869;La règle du frein à l'endettement devrait traiter de manière symétrique les dépassements de dépenses et les économies réalisées.;4
+870;Cependant, le système est fragmenté, et les dépenses de soins à domicile restant à la charge du patient peuvent être inabordables, même pour des besoins peu importants.;4
+871;Une meilleure protection de la vie privée conjuguée à des mesures allant dans le sens d'une meilleure gestion des risques de sécurité numérique pourraient contribuer à promouvoir la confiance.;4
+872;Malgré les récentes réformes, le régime public constituant le premier pilier du système de retraite reste confronté à des problèmes de viabilité. ;4
+873;La faiblesse des taux d'intérêt contribue à alimenter des risques liés aux expositions au secteur du logement.;4
+874;L'âge légal de départ à la retraite devrait être relevé pour les femmes et aligné sur celui des hommes.;3
+875;L'essor du numérique et les nouvelles technologies promettent d'accroître la productivité en stimulant l'innovation, en générant des gains d'efficience et en améliorant les services.;4
+876;La perspective de longues négociations pourrait peser sur l'investissement et la confiance des entreprises.;3
+877;Les chiffres sont des êtres fragiles qui, à force d'être torturés, finissent par avouer tout ce qu'on veut leur faire dire.;3
+878;Pour les autorités israéliennes, à quelques semaines des élections, il est crucial de montrer que le plan de vaccination est un succès éclatant, plutôt qu’un échec.;3
+879;De nombreux indicateurs lui permettent de suivre l’évolution de la situation, et au fur et à mesure que l’épidémie se propage, de nouveaux outils deviennent nécessaires pour avoir une vision globale de la situation.;4
+880;Cet indicateur reflète le niveau de sollicitation des réanimations mais aussi le niveau de tension sur les capacités hospitalières en réanimation.;4
+881;Bien qu'attirant pour de nombreux scientifiques et une mesure par défaut pour les dirigeants politiques craignant une responsabilité juridique pour des réponses nationales lentes ou indécises, son utilisation doit être réexaminée, uniquement pour être utilisée en dernier recours.;4
+882;La politique vaccinale s’accompagne aussi de nombreux doutes quant aux effets secondaires, estimés comme étant très importants par certains chercheurs.;4
+883;"La loi sur laquelle s'est appuyé le gouvernement néerlandais pour imposer un couvre-feu est prévue pour des ""circonstances très urgentes et exceptionnelles"".";4
+884;"Cependant, un recours en urgence a suspendu la décision, imposant le statu quo le temps qu'une cour d'appel examine le dossier, et ce afin d'éviter un ""effet yo-yo"".";4
+885;Alors que leurs effets dévastateurs sur les insectes pollinisateurs ne sont plus à prouver, les néonicotinoïdes seraient également néfastes pour les mammifères dont les humains.;4
+886;"Il en résulte alors des conséquences désastreuses pour certaines espèces ; pour le cerf, on parle d’une malformation de la mâchoire, d’une masse corporelle limitée, d’organes sous-dimensionnés et d’une vie sexuée réduite.";4
+887;En 2019, le taux d’imposition de l’énergie était de 335 francs par tonne d’équivalent pétrole (TEP), une unité de mesure qui permet de comparer entre eux les différents agents énergétiques.;4
+888;Cette somme comprend les dépenses d’électricité et de chauffage au domicile principal et, le cas échéant, au domicile secondaire, ainsi que les dépenses pour l’essence ou le diesel.;4
+889;Depuis la crise pétrolière des années 1970, la hausse du prix de l’électricité a été, en termes nominaux, moins forte que celle de l’indice des prix à la consommation (IPC).;4
+890;Les impôts sur l’énergie comprennent essentiellement les impôts sur les carburants, la taxe CO2 sur les combustibles et le supplément sur les coûts de transport d'électricité.;4
+891;Le montant des recettes des impôts sur l’énergie dépend non seulement du taux d’imposition, mais aussi de la quantité d’énergie consommée, elle-même influencée par la situation économique, les conditions météorologiques et les prix.;4
+892;Analyser la santé par le genre apparaît important pour mieux comprendre les différences de santé entre hommes et femmes, et pour mettre en place ensuite des stratégies de prévention et de promotion de la santé spécifiques, qui soient bénéfiques pour la société entière.;4
+893;Ainsi, le genre est un déterminant de la santé à considérer en association avec d’autres déterminants sociaux tels que la condition socio-économique, l’âge ou l’appartenance ethnique, dans une perspective d’intersectionnalité pour décrire cette interaction de différentes caractéristiques.;5
+894;Pour expliquer ces différences, il est nécessaire d’utiliser le concept social du genre (Doyal, 2003), qui permet de comprendre par exemple comment les normes sociales ont favorisé l’adoption du tabagisme par les hommes d’abord, puis plus tardivement par les femmes.;4
+895;Le genre constitue ainsi un angle d’analyse fondamental pour comprendre une société: structurant tous les domaines de la vie sociale, il concerne donc des aspects fondamentaux de pouvoir, de hiérarchies, de classifications et d’identités, que ce soit dans les entreprises, dans les familles, ou dans les espaces publics.;4
+896;Néanmoins, l’introduction de la notion de genre dans la santé entraîne une meilleure compréhension des processus biologiques et sociaux intriqués qui influencent les trajectoires de santé des hommes et des femmes.;4
+897;Les coûts totaux des transports prennent donc en considération, outre les coûts liés aux dépenses financières, les coûts immatériels qui ne résultent d’aucun paiement comme par exemple la souffrance ressentie par les victimes d’accidents.;4
+898;Les paiements compensatoires sont par exemple les impôts et taxes spécifiques liés au transport, versés par les usagers des transports aux pouvoirs publics, les paiements des voyageurs aux entreprises de transport sous forme de billets et d’abonnements, ou les indemnisations versées par les pouvoirs publics aux entreprises de transport.;4
+899;Les coûts kilométriques réels peuvent diverger sensiblement des valeurs moyennes en fonction du moyen de transport utilisé, du taux d’occupation ou du taux de remplissage, de l’infrastructure utilisée, de la topographie des lignes, du flux de trafic, etc.;4

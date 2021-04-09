@@ -1,0 +1,401 @@
+ID;Phrases;Type
+1;La formation s'achèvera par un contrôle pour savoir si le propriétaire a intégré les connaissances.;3
+2;Des sanctions administratives et des ordonnances pénales sont possibles si des nouveaux détenteurs de chiens renoncent à suivre la formation ou à l'achever.;4
+3;Le canidé, d'un âge avancé, a été bien malgré lui au coeur de commentaires désobligeants proférés sur le plateau de la chaîne de télévision.;4
+4;Tout savoir avant d’adopter un chat.;1
+5;Le chat, le nouveau « meilleur ami de l'homme ».;1
+6;Il n'a aucune valeur mais il représente beaucoup pour moi.;3
+7;Il ne m'adresse plus la parole et je ne lui parle pas non plus.;1
+8;Vous pourrez assister ce soir à la première de deux émissions qui ont pour objectif de savoir quel est le chanteur ou la chanteuse préféré(e) des Français.;2
+9;A qui appartient le chien qui aboie nuit et jour ?;2
+10;Je désire connaître l'heure excate de passage du facteur.;2
+11;Pouvez-vous m'indiquer la poste s'il vous plait ?;1
+12;J'ai un colis pour votre voisine mais elle n'est pas là.;2
+13;Le commerçant travaille dans une grande surface.;0
+14;Le logo signifie que le commerçant donne des produits gratuitement à ses clients.;2
+15;Tout le monde n'a pas l'argent pour se payer une machine à laver.;2
+16;Quand je l'ai vu mon coeur s'est mis à battre très fort.;2
+17;J'ai ouvert cette école il y a une dizaine d'années pour aider les animaux.;1
+18;En janvier dernier, j'ai voulu laisser un message sur le répondeur de mon frère.;2
+19;Elles étaient très amies mais l'une des deux est partie en Suède.;1
+20;Les journalistes sont prêts à tout !;0
+21;Il a su se défendre et mentir lorsqu'on lui posait des questions embarassantes.;2
+22;Me voici, Madame, arrivé dans un séjour qui s'est attiré autrefois l'honneur de votre présence, car il me semble qu'il y a longtemps que Votre Altesse n'y est venue.;5
+23;Je vous supplie très humblement de me permettre de cultiver des fleurs dans le parterre d'en haut : la principale raison qui m'oblige à vous demander cette grâce est d'orner un lieu où vous pourrez venir quelque jour.;5
+24;"J'accepterai cette grâce; mais je doute fort que j'y demeure plus de deux mois et pour des raisons d'intérêt.";5
+25;J’avais juré de laisser là les nonnes : car que toujours on voie en mes écrits, même sujet, et semblables personnes, cela pourrait fatiguer les esprits.;5
+26;Un mari ayant une aventure amoureuse au fond de son jardin avec la belle servante de la maison, fut découvert par la voisine qui observait tout de sa fenêtre.;4
+27;Les mois de mars et avril passent en accéléré : procès, rendez-vous médicaux, concerts, ballets, devoirs et match de baseball s’enchaînent à une vitesse incroyable, et pendant tout ce temps, le ventre de Chelsea ne cesse de s’étirer.;3
+28;Je crois que vous avez appuyé sur l’arrêt d’urgence, me dit-il d’un ton calme, d’une voix grave et chaude.;3
+29;Certains partenaires ne demandent pas votre consentement et s'appuient sur leur intérêt commercial légitime pour traiter vos données.;5
+30;Un enfant est drôle.;0
+31;J’aime aussi me promener avec mes amis en rêvant de voyages que nous pourrions faire ensemble.;2
+32;Pour ne pas perdre notre équilibre, pour ne pas perdre les bienfaits et les avantages d’apprendre, il faut garder notre curiosité et avancer dans la vie.;4
+33;Si un seul homme peut exprimer autant de haine, imaginez combien d’amour nous pouvons exprimer ensemble.;3
+34;Ils s’étaient imaginé pouvoir surmonter le deuil en se lançant dans les travaux de rénovation.;3
+35;Tout aurait été plus simple s’ils avaient pu la définir et déterminer à qui elle incombait.;4
+36;Le soleil brûlant de juillet la faisait transpirer, la sueur collait sa frange sur son front et son bras la faisait souffrir à force de répéter le même va-et-vient pour le troisième jour consécutif.;3
+37;Et lorsqu’ils commencent à ôter le plancher de la salle à manger, ils découvrent du sang coagulé.;3
+38;Elle n’imaginait pas que les secrets familiaux allaient mettre en péril l’une des personnes les plus importantes de sa vie.;3
+39;Mais la douleur physique l’aidait à oublier la douleur dans son coeur, et elle l’accueillait avec gratitude.;4
+40;Il dut sentir son regard, car il s’arrêta un instant, leva la tête et lui fit un petit signe de la main, comme à une connaissance qu’on salue en passant.;4
+41;Comme si le chagrin les remplissait à tel point qu’il n’y avait de place pour aucun autre sentiment.;4
+42;De toute évidence, cette maison possédait une âme.;2
+43;Leur pavillon mitoyen à Paris était pratiquement neuf quand ils l’avaient acheté.;3
+44;À l’époque elle avait adoré son aspect brillant et rutilant, sans la moindre éraflure.;4
+45;Aujourd’hui, le neuf n’était qu’un rappel de ce qui avait été, et cette vieille maison avec tous ses défauts semblait plus en accord avec son état d’esprit.;4
+46;Elle se reconnaissait dans le toit et ses fuites d’eau, dans la chaudière qu’il fallait régulièrement redémarrer à grands coups de pied et dans les fenêtres à courants d’air qui interdisaient de poser une bougie sur leur bord sans qu’elle soit soufflée.;4
+47;Dans son coeur aussi il y avait des courants d’air et des fuites d’eau.;3
+48;Devant la paroi rocheuse escarpée, les petites maisons blanches et les cabanes rouges de pêcheur formaient comme un collier de perles.;4
+49;Dans le ciel, les mouettes tournoyaient et s’interpellaient bruyamment, leurs cris se mêlaient au vrombissement des bateaux à moteur qui sillonnaient l’archipel.;5
+50;On a besoin de faire une pause.;0
+51;Oui, c’est une bonne idée, dit-elle et elle descendit de l’échafaudage.;2
+52;Leurs maillots de bain séchaient à l’arrière de la maison et elle se débarrassa de ses vêtements de travail trempés de sueur pour enfiler son bikini.;3
+53;L’île était assez grande.;0
+54;Les vagues frappaient la longue plage.;1
+55;Elle balança la serviette par terre et partit tout droit dans l’eau salée.;2
+56;Derrière elle, elle l'entendit l’appeler.;2
+57;Elle fit semblant de ne pas l’entendre et continua d’avancer.;2
+58;Elle avait besoin de passer un instant seule.;1
+59;Sans avoir à tenir compte de quelqu’un d’autre.;3
+60;Mais comme d’habitude quand elle avait un instant libre, elle avait donné la priorité à son écriture aux dépens du rangement.;3
+61;En entendant la porte d’entrée s’ouvrir, elle leva les yeux de l’ordinateur et aperçut son mari.;2
+62;Elle n’était pas là.;0
+63;Salut, qu’est-ce que tu fais là ?;0
+64;Hannah regarda les sabots détestables, qui par-dessus le marché étaient vert fluo.;3
+65;Sa soeur lui avait offerts des jouets.;0
+66;Il vint l’embrasser avant de rejoindre la cuisine.;1
+67;Elles sont trop confortables.;0
+68;Bien sûr que tu vas y aller.;0
+69;Je m’occuperai des enfants ce week-end-là, j’ai déjà posé mes congés.;2
+70;Je peux disposer librement de mon temps et de mon propre chef.;3
+71;Elle écrivait des livres que les gens lisaient pour se divertir.;2
+72;Oui, j'aime le chocolat.;0
+73;Mais j’ai réussi à les mettre au lit tous en même temps cette fois.;2
+74;D’habitude, il n’avait jamais peur.;1
+75;À chaque respiration elle sentait la fumée entrer dans ses poumons, tel un insidieux poison.;3
+76;J’ai éteint le feu.;0
+77;C’était sa grande différence entre lui et moi.;2
+78;Deux autres hommes se tenaient derrière lui.;1
+79;Mère est dans le jardin derrière la maison.;1
+80;Qu’est-ce que vous faites ?;0
+81;je suis déjà en train de sortir du lit.;1
+82;Il coinça le téléphone entre l’oreille et l’épaule tout en attrapant son jeans.;2
+83;C’est bizarre que ça arrive juste maintenant.;1
+84;J’ai plein de bons souvenirs d’ici.;1
+85;On venait avec l’école chaque année, j’ai fait un stage de voile aussi un été.;2
+86;Ses mains étaient noires de suie.;2
+87;Ils semblaient sous le choc et je me suis dit qu’ils avaient besoin de rester au calme.;3
+88;Les pompiers ont parlé d’incendie criminel ?;2
+89;J’ai couru chercher l’extincteur, je n’avais que ça en tête : éteindre le feu.;3
+90;Vous n’avez pas entendu des bruits suspects plus tôt dans la nuit ?;2
+91;Ils sont en vacances, il n’y a que nous sur cette partie de l’île.;2
+92;Le pendentif représentait un très joli ange.;2
+93;On dirait qu’il y a beaucoup de travaux à faire.;2
+94;On n’a pas peur de travailler.;1
+95;La seule chose qui me vienne à l’esprit, ce sont les cartes d’anniversaire.;2
+96;On lui avait tout pris, elle se retrouvait seule au monde.;2
+97;lls la détestaient à cause de ce que sa mère avait fait.;2
+98;Elle pouvait supporter tout cela.;2
+99;Elle était la princesse de mère et père, et elle savait qu’elle avait été désirée et aimée.;3
+100;Il s'agit d'un projet pour la paix de notre temps.;2
+101;Pouvez-vous nous donner un peu plus de détails ?;1
+102;Dans sa tête, le bruit de bottes des soldats allemands résonna.;3
+103;Ils ne comprenaient pas, personne ne comprenait.;1
+104;Il espérait juste qu’en temps voulu, il parviendrait à se débarrasser de lui.;3
+105;J’investis personnellement une grosse somme d’argent.;1
+106;Une petite marque au front, des cicatrices sur le corps et une démarche légèrement claudicante étaient les seules traces visibles de l’accident qu’elle avait subi un an et demi auparavant.;3
+107;Anna franchit le seuil et se débarrassa de ses chaussures.;3
+108;Anna alla dans la cuisine où elle se sentait chez elle.;2
+109;Erica lui montra un gâteau dans un sac plastique transparent.;2
+110;Ils se laissèrent glisser par terre et partirent en trombe vers le salon.;3
+111;Je savais bien que j’étais assise depuis trop longtemps.;2
+112;C’est comme ça tous les jours.;1
+113;Oui, c’est pénible, dit son beau-père en plongeant sa main dans le plat à crevettes pour en attraper une bonne poignée.;3
+114;Du moment qu’on a une démocratie, on doit écouter le peuple.;2
+115;Il sortit vivement le téléphone et jeta un oeil sur l’écran avant de répondre.;3
+116;Ils n’ont tout simplement aucune classe.;2
+117;Elle se rendit compte qu’elle travaillait dans la pénombre et alluma la lampe posée sur le bureau.;3
+118;Quelqu’un a essayé de brûler la maison et on ignore qui et pourquoi.;2
+119;On ne peut pas vivre comme ça.;2
+120;L'année dernière, je suis allé au bord de la Loire pour les vacances.;1
+121;J’ai raccroché et j’ai ri.;1
+122;Manoeuvrer dans le port n’était pas une mince affaire.;3
+123;Les bateaux étaient serrés les uns contre les autres, et s’ils n’avaient pas été équipés de défenses, ni le leur ni ceux des voisins ne seraient restés intacts.;4
+124;Cette maison est la nôtre.;1
+125;J’ai posé le courrier sur la table.;1
+126;Je voudrais bien construire les bâtiments les plus hauts du monde.;2
+127;J’aimerais bien publier mes romans.;2
+128;Quoi qu’il arrive, il faut rester motivé.;1
+129;Si je pouvais, je jouerais un rôle dans une pièce de Molière !;2
+130;J’aimerais tant pouvoir un jour danser à l'Opéra de Paris !;2
+131;Je voudrais tellement que tout le monde admire mes tableaux !;2
+132;Elle serait partie en vacances.;2
+133;Souvent, je m’arrêtais pour parler avec les villageois.;1
+134;Donc, pendant que je pédalais, ils étaient sûrement assis sur le sable.;1
+135;Ils passaient leurs journées à l'intérieur !;1
+136;J’ai reçu un appel.;1
+137;Tous les mardis, il va à l’entraînement de football.;0
+138;Il joue au football depuis cinq ans.;0
+139;Mardi prochain à 14 heures, son équipe a un match important.;1
+140;Nous sommes en train de dîner.;1
+141;Je suis en train de repeindre ma chambre.;1
+142;Je suis très belle.;0
+143;Vous marchez vite.;0
+144;Tu manges beaucoup.;0
+145;On est tous ensemble.;0
+146;Nous nageons dans la piscine.;0
+147;Je suis dans ma chambre.;0
+148;Elle a des amies.;0
+149;Nous avons un cours de Français.;0
+150;Nous sommes en vacances.;0
+151;Je porte un pantalon.;0
+152;Tu es souvent absente.;0
+153;Je ne suis jamais content.;0
+154;J'ai soif.;0
+155;Jean a une copine.;0
+156;Quel âge as-tu ?;0
+157;J'ai une question.;0
+158;Nous avons une voiture bleue.;0
+159;J'ai deux voisins.;0
+160;Le grand Meaulnes jeta son chapeau par terre et je vis qu’il avait les cheveux complètement ras comme un paysan.;3
+161;Cet emballage innovant, allié au développement des lignes de chemin de fer, permit la distribution du camembert dans d’autres régions de France, mais aussi à l’étranger.;3
+162;Colette eut des funérailles nationales lors de sa mort en 1954 et est enterrée auprès de sa fille, au cimetière du Père-Lachaise à Paris.;3
+163;Étant féru d’art, Yves Saint Laurent a constitué, au fil des années, une importante collection d’objets précieux et de peintures qui ont inspiré certaines de ses créations.;4
+164;Abandonnez sans état d’âme le traditionnel cahier de vacances que les trois quarts des enfants ne terminent pas : la liste des produits alternatifs qui visent à « faire aimer » autant qu’à « faire réviser » est longue.;4
+165;Concentrés toute l’année sur les résultats scolaires de leurs enfants, les parents ne sont pas prêts à laisser les bains de mer ou de soleil délaver les tables de multiplication, les plus-que-parfait de l’indicatif et autres théorèmes de géométrie si chèrement acquis.;5
+166;Je n’ai pas très faim.;0
+167;Ils sont incroyables.;0
+168;Plus personne ne sautait sur le canapé depuis longtemps.;2
+169;Il mordit dans une tartine.;2
+170;C’était une soirée comme les autres.;2
+171;La soirée fut longue.;2
+172;Juste avant sa mort, il avait réussi à amorcer une sorte de réconciliation, mais jamais il ne pourrait comprendre les opinions de son père.;3
+173;Je crois que le peuple suédois a mûri.;3
+174;J'ai un frère et une soeur.;0
+175;Ma mère s'appelle Marie.;0
+176;"Sans honneur que précaire, sans liberté que provisoire, jusqu’à la découverte du crime ; sans situation qu’instable, comme pour le poète la veille fêté dans tous les salons, applaudi dans tous les théâtres de Londres, chassé le lendemain de tous les garnis sans pouvoir trouver un oreiller où reposer sa tête, tournant la meule comme Samson et disant comme lui : “Les deux sexes mourront chacun de son côté”.";5
+177;J'aime le ski.;0
+178;Je ne trouve plus mon t-shirt rouge.;0
+179;Nous habitons à Paris.;0
+180;Un jour qu’il était venu nous voir à Paris après dîner en s’excusant d’être en habit, Françoise ayant, après son départ, dit tenir du cocher qu’il avait dîné « chez une princesse »,— « Oui, chez une princesse du demi-monde ! » avait répondu ma tante en haussant les épaules sans lever les yeux de sur son tricot, avec une ironie sereine.;5
+181;« Il paraît que c’est une bête bien affable », ajoutait Françoise qui tenait le renseignement de Théodore, « spirituelle comme une personne, toujours de bonne humeur, toujours aimable, toujours quelque chose de gracieux. C’est rare qu’une bête qui n’a que cet âge-là soit déjà si galante.;5
+182;J'ai trouvé un stage qui me plaît beaucoup.;1
+183;Je ne pourrai pas venir demain.;1
+184;Pourrais-tu me passer le sel ?;0
+185;J'ai vu la tour Eiffel ?;0
+186;Quel est votre avis ?;1
+187;Les uns, les pires et dont elle s’était débarrassé les premiers, étaient ceux qui lui conseillaient de ne pas « s’écouter » et professaient, fût-ce négativement et en ne la manifestant que par certains silences de désapprobation ou par certains sourires de doute, la doctrine subversive qu’une petite promenade au soleil et un bon bifteck saignant (quand elle gardait quatorze heures sur l’estomac deux méchantes gorgées d’eau de Vichy !) lui feraient plus de bien que son lit et ses médecines.;5
+188;Aussi, ceux qu’elle avait laissé monter après quelques hésitations et sur les officieuses instances de Françoise et qui, au cours de leur visite, avaient montré combien ils étaient indignes de la faveur qu’on leur faisait en risquant timidement un : « Ne croyez-vous pas que si vous vous secouiez un peu par un beau temps », ou qui, au contraire, quand elle leur avait dit : « Je suis bien bas, bien bas, c’est la fin, mes pauvres amis », lui avaient répondu : « Ah ! quand on n’a pas la santé ! Mais vous pouvez durer encore comme ça », ceux-là, les uns comme les autres, étaient sûrs de ne plus jamais être reçus.;5
+189;Etes-vous à la maison ?;0
+190;J'ai cherché à te joindre il y a une heure.;1
+191;J'accoucherai en juin normalement.;1
+192;Qu'as-tu mangé ?;0
+193;Vous êtes partie.;0
+194;J'ai beaucoup aimé le film sur les abeilles.;1
+195;J'aime beaucoup ce manteau noir.;0
+196;Je ne me fus pas trompé dans mon calcul.;3
+197;Lorsqu’il eut reçu son premier salaire, Louis courut acheter une guitare pour chanter une sérénade à sa bien-aimée.;4
+198;Comme ces brioches sentent bon !;1
+199;Elle ne leur a pas révélé son secret.;1
+200;Et si Françoise s’amusait de l’air épouvanté de ma tante quand de son lit elle avait aperçu dans la rue du Saint-Esprit une de ces personnes qui avait l’air de venir chez elle ou quand elle avait entendu un coup de sonnette, elle riait encore bien plus, et comme d’un bon tour, des ruses toujours victorieuses de ma tante pour arriver à les faire congédier et de leur mine déconfite en s’en retournant sans l’avoir vue, et, au fond admirait sa maîtresse qu’elle jugeait supérieure à tous ces gens puisqu’elle ne voulait pas les recevoir.;5
+201;Et se précipitant sur un livre de messe relié en velours violet, monté d’or, et d’où, dans sa hâte, elle laissait s’échapper de ces images, bordées d’un bandeau de dentelle de papier jaunissante, qui marquent les pages des fêtes, ma tante, tout en avalant ses gouttes commençait à lire au plus vite les textes sacrés dont l’intelligence lui était légèrement obscurcie par l’incertitude de savoir si, prise aussi longtemps après l’eau de Vichy, la pepsine serait encore capable de la rattraper et de la faire descendre.;5
+202;Les impôts sur le revenu et la fortune des personnes physiques, sur le bénéfice et le capital des personnes morales ainsi que sur les bénéfices immobiliers sont des impôts directs que les cantons doivent prélever selon la LHID.;4
+203;La compétence fiscale des communes est réduite car elle dépend du droit cantonal.;3
+204;En Suisse les personnes physiques peuvent être assujetties à l’impôt sur le revenu et la fortune en raison de leurs liens personnels ou leur rattachement économique avec la Suisse.;3
+205;L’assujettissement illimité touche les personnes domiciliées ou séjournant en Suisse et concerne le revenu mondial.;3
+206;Quoiqu’elle ne se soit pas assez entraînée, Amélie veut participer au marathon.;1
+207;De ce poste élevé elle participait avec entrain à la conversation des fidèles et s’égayait de leurs « fumisteries », mais depuis l’accident qui était arrivé à sa mâchoire, elle avait renoncé à prendre la peine de pouffer effectivement et se livrait à la place à une mimique conventionnelle qui signifiait sans fatigue ni risques pour elle, qu’elle riait aux larmes.;5
+208;Le revenu des enfants sous autorité parentale est ajouté à celui du détenteur de l’autorité parentale.;3
+209;Seuls les membres de la société de personnes ont la qualité de contribuables, ainsi le revenu et la fortune nets de la société sont attribués proportionnellement aux personnes physiques formant la société.;4
+210;La communauté d’héritier a la qualité de contribuable, ainsi le revenu et la fortune nets de la société sont attribués aux personnes physiques formant la communauté d’héritiers, sauf pour le canton du Tessin où c’est l’hoirie qui est imposée !;5
+211;Le transfert de domicile d’un canton à un autre entraîne la fin de l’assujettissement dans le canton de départ et en début d’assujettissement dans d’arrivée.;4
+212;L’activité dépendante présuppose un rapport de subordination de l’employé qui se soumet aux instructions de l’employeur.;5
+213;Sont visés les plans de participation du personnel mis en place par une société en faveur de ses employés sous forme d’octroi d’actions ou d’options.;5
+214;Les actions de collaborateurs sont des actions que l’employeur ou l’entreprise attribue à ses employés, à un prix de faveur à l’occasion d’une émission ou par aliénation de titres en provenance de son portefeuille.;5
+215;Notre étude se concentre sur l’impact d’une couverture maladie universelle sur le taux de mortalité dans les pays développés.;3
+216;Pour remédier à une suspicion d’endogénéité, plusieurs variables instrumentales potentielles sont proposées.;4
+217;Les circonstances actuelles nous ont amené à réfléchir à l’importance et les impacts que peut avoir la qualité des systèmes de santé.;3
+218;Notre papier comporte en premier lieu une description détaillée des données étudiées, ainsi que diverses analyses concernant ces dernières.;3
+219;Dans l’idée de parfaire notre recherche, nous avons fait le choix d’ajouter des variables de contrôle relatives à la santé, à commencer par la consommation d’alcool qui est une variable représentant la consommation d’alcool en litres/personne/an pour la population âgée de plus de 15 ans.;4
+220;Nous avons décidé de travailler sur trois variables instrumentales, la première retenue étant l’individualisme.;3
+221;L’idée est la suivante : lorsqu’un laboratoire dépose un brevet pour un médicament ou une molécule, et que le brevet est approuvé, le laboratoire acquiert un pouvoir de monopole et peut ainsi jouer sur le prix de ses produits.;4
+222;Telle, étourdie par la gaieté des fidèles, ivre de camaraderie, de médisance et d’assentiment, Mme Verdurin, juchée sur son perchoir, pareille à un oiseau dont on eût trempé le colifichet dans du vin chaud, sanglotait d’amabilité.;5
+223;Dans le premier article, j'ai décrit les faits stylisés des rendements des actifs.;3
+224;Le backtesting évalue essentiellement la performance d'une stratégie de trading sur des données historiques, si nous avons utilisé une stratégie donnée sur un ensemble d'actifs dans le passé, dans quelle mesure elle aurait été performante.;4
+225;Il existe quelques frameworks disponibles.;2
+226;Il existe une structure claire sur la façon de construire un backtest et le résultat auquel nous pouvons nous attendre, de sorte que la majorité du temps peut être consacrée au développement de stratégies de trading à la pointe de la technologie.;4
+227;J'aime courir sous la pluie.;0
+228;J’ai téléphoné à l’agent et je lui ai demandé si les documents avaient été signés, car nous voulions commencer à lancer des opérations de promotion avec lui.;3
+229;C’était ce que je chantais le matin sous la douche, c’était l’objet de mes prières, ma priorité numéro un.;2
+230;Ce n’était pas tant une décision stratégique qu’une nécessité.;2
+231;Les prêts que l'on nous accordait pouvaient être quasiment considérés comme des fonds propres.;3
+232;Nous avions une ligne de crédit d’un million de dollars à la banque mais nous avions aussi un crédit d’un million auprès de Nissho, qui avait accepté que sa créance ait une séniorité plus faible, ce qui rassurait la banque.;3
+233;Je refusais l’idée même de passer des commandes plus petites.;2
+234;J'ai 20 ans.;0
+235;Pourquoi passer une commande de deux millions au lieu de trois si vous pensez viscéralement qu’il existe une demande à cinq millions ?;4
+236;Je commandais un nombre de chaussures qui leur paraissait absurdement élevé.;2
+237;Nous aurions de toute évidence du mal à les rendre.;2
+238;Pour la plupart des observateurs, cela devait paraître une façon extrêmement imprudente et dangereuse de gérer une entreprise.;3
+239;Je me souviens d’une anecdote en particulier.;1
+240;La façon dont il était habillé au golf, tout comme la façon dont il était habillé au bureau, était méticuleuse.;2
+241;Tout le contraire de moi.;1
+242;Je n'aime pas dessiner.;0
+243;Je me devais de toujours le satisfaire.;3
+244;Nous savions pertinemment qu’être aussi justes financièrement n’était pas normal.;3
+245;Je comprends la situation.;0
+246;Il nous disait qu’il pourrait continuer à travailler avec nous tant que nous serions francs et transparents avec lui.;3
+247;Nous avions besoin d’aide.;1
+248;Les choses sont en train de mal tourner.;1
+249;Je lui ai demandé ce que nous devions faire.;1
+250;Il a demandé la raison de cette décision.;1
+251;Sa voix était étonnamment douce.;2
+252;Il nous arrive de procéder de cette façon de temps en temps.;1
+253;Et le fait est que, nous n’avons pas réussi à couvrir nos charges avec nos rentrées d’argent.;3
+254;Une étude montre que ce vaccin offre un taux de protection élevé qui permet d'éviter l'hospitalisation.;3
+255;Le vaccin AstraZeneca est-il en voie de réhabilitation accélérée ?;3
+256;Le sérum, qui a pâti de la comparaison avec ses concurrents Pfizer et Moderna, est désormais considéré comme aussi efficace pour prévenir le risque d'hospitalisation.;4
+257;Pourquoi le gouvernement a-t-il décidé une extension du public visé ?;3
+258;La presse s'est abondamment fait l'écho des effets secondaires ressentis par les soignants de moins de 65 ans.;3
+259;Il existe un moyen simple d'arrêter cette réaction, c'est de prendre du paracétamol juste avant la vaccination et si besoin, toutes les six heures.;3
+260;Le week-end dernier, un début de polémique a émergé quant à la sous-utilisation du vaccin AstraZeneca.;3
+261;La « marquise » reprit un ton plus doux, car elle avait constaté que le protecteur des massifs et des pelouses l’écoutait avec bonhomie sans songer à la contredire, gardant inoffensive au fourreau une épée qui avait plutôt l’air de quelque instrument de jardinage ou de quelque attribut horticole.;5
+262;Le ciel est également scruté mais pour des raisons ici scientifiques.;2
+263;Ainsi une centaine de caméras automatiques installées sur le sol français surveillent en permanence la rentrée de météorites dans l’atmosphère.;4
+264;L’objectif est désormais pour les scientifiques de retrouver cette météorite sur le terrain !;2
+265;"L’association ""À Ciel Ouvert"", membre de ce réseau et spécialisée dans la médiation scientifique autour de l’astronomie et des météorites, est le relais le plus proche du point d’impact.";4
+266;Carlos Ghosn sera-t-il le dernier protagoniste de sa folle escapade à demeurer hors d'atteinte de la justice ?;3
+267;Plus tôt, ils avaient été remis à un procureur, escortés de 15 officiers de police japonais venus spécialement aux États-Unis samedi pour l'occasion.;4
+268;Il y a quelques jours, un tribunal turc a condamné deux pilotes et le cadre d'une compagnie aérienne à plus de quatre ans de prison, pour avoir participé à l'opération, et omis le nom de Carlos Ghosn sur les documents d'entrée et de sortie du territoire turc.;4
+269;Pour l’aider à améliorer sa politique de modération ainsi que la protection de ses utilisateurs, TikTok Europe a décidé de se tourner vers des experts.;4
+270;Le réseau social annonce ce mardi la constitution d’un «comité consultatif européen de sécurité», composé de neuf membres de la société civile.;3
+271;Le chocolat suisse n'a pas échappé au choc de la pandémie : la consommation d'un des produits phares de ce pays alpin a fondu l'an passé à son plus bas niveau depuis près de 40 ans.;4
+272;Les Helvètes, premiers consommateurs de chocolat au monde, ont eu semble-t-il l'appétit coupé par le virus en 2020.;3
+273;Avec la distanciation sociale, les occasions de se réunir ont également été moins fréquentes.;3
+274;L’objectif est de contribuer à une croissance plus durable en Afrique en minimisant l’impact sur l’environnement.;4
+275;Le fait est méconnu mais l’Afrique a aussi un marché carbone qui valorise les efforts environnementaux des entreprises.;4
+276;Le bulletin de notes du gouvernement a piètre allure.;3
+277;C'est pourquoi nous demandons aujourd'hui que le président de la République tienne sa parole et soumette, 'sans filtre', les propositions de la Convention au référendum, au parlement ou à application réglementaire directe.;4
+278;Je n'ai pas de leçons à recevoir.;1
+279;On se retrouve aujourd'hui exactement dans la situation qu'on redoutait : le gouvernement transforme les mesures pour satisfaire certains intérêts économiques.;4
+280;Personne n'en a autant fait, depuis dix ans.;2
+281;Députés et membres de la Convention ont ainsi été conviés par le gouvernement à cinq réunions pour «présenter les orientations retenues».;4
+282;Soixante associations de défense de l'environnement et de solidarité sociale ont mis en garde contre une possible exclusion de l'obligation de rénovation énergétique des logements dans la future loi sur le climat.;5
+283;Le gouvernement veut lutter contre la fraude dans la rénovation énergétique, notamment en renforçant les contrôles et en s'attaquant aux «démarchages téléphoniques abusifs».;5
+284;Une campagne de communication grand public va également être menée.;3
+285;Les entreprises se bousculent pour être cotées sur la plus ancienne place boursière au monde.;3
+286;Eviter d’importer de l’inflation et surtout contrôler le niveau de change du franc suisse par rapport aux grandes devises internationales et notamment face à l’euro et au dollar.;4
+287;En 2020, le classique compte courant s'est imposé comme le produit d'épargne préféré des Français.;4
+288;Avoir un chien est un vrai bonheur mais encore faut-il s'en occuper correctement.;2
+289;Le chien est le meilleur ami de l'homme !;1
+290;Il est considéré comme un membre de la famille à part entière.;1
+291;Souvent, lorsque l'on a un animal à la maison, on souhaite qu'il ne manque de rien et encore moins de nourriture.;2
+292;On a donc tendance à le gaver de croquettes et de pâté.;3
+293;L'hygiène dentaire des chiens est très importante et souvent négligée par les propriétaires.;2
+294;Les chiens ont besoin d'une activité physique quotidienne.;2
+295;Si vous en avez la possibilité, ne laissez pas votre chien longtemps dans la voiture sans surveillance.;2
+296;Il est impératif de tenir votre chien en laisse lorsque vous le promenez.;2
+297;Le chien a besoin de rencontrer d'autres animaux.;2
+298;Cela fait partie de sa vie sociale.;1
+299;Certains chiens peuvent vite prendre peur ou se montrer agressifs.;2
+300;Le corgi a l'allure d'un petit renard.;1
+301;Le corgi est aussi connu pour son caractère amical et sociable.;1
+302;Très robuste, il était particulièrement apprécié pour la chasse au caribou et les déplacements en traîneau.;3
+303;Il fait beau dehors.;0
+304;Il est assez calme.;0
+305;Il est impératif de réussir à vous imposer dès le début !;3
+306;Aux premiers abords, cette race peut se méfier des étrangers, mais est facilement docile avec son maître.;3
+307;S’il était à l’origine destiné à surveiller le bétail, il est doux avec les enfants.;2
+308;Le ministre de l'Education nationale a assuré que ces étudiants seront rémunérés pour la réalisation de ces tests.;3
+309;La justice russe a transformé en prison ferme une peine avec sursis à laquelle il avait été condamné en 2014.;4
+310;Ces nouvelles tensions interviennent après une journée de répression meurtrière dimanche avec au moins 18 manifestants tué.;3
+311;Par crainte des représailles, les contestataires ont été moins nombreux mardi dans les rues.;3
+312;Face à eux, les forces de sécurité ont été déployées en nombre.;3
+313;Les vagues d'arrestation se poursuivent.;2
+314;Les journalistes ont de plus en plus de mal à exercer leur métier.;2
+315;Twitter va bannir les utilisateurs en cas de désinformation répétée sur les vaccins.;3
+316;Le réseau social américain veut «réduire la propagation d'informations potentiellement dangereuses ou trompeuses», et va mettre en place un système d'avertissement pour ses utilisateurs.;3
+317;Ce système s'inspire de celui contre la désinformation liée aux élections et processus civiques, qui a notamment conduit Twitter à bannir l'ancien président américain Donald Trump.;4
+318;Dès octobre, alors que les vaccins n'en étaient qu'au stade des tests cliniques, YouTube et Facebook avaient annoncé un règlement strict visant à interdire la désinformation sur les vaccins et les efforts pour nuire aux campagnes de vaccination.;3
+319;Des modérateurs seront chargés de déterminer quels contenus enfreignent les règlements, mais la plateforme espère mettre au point un système à la fois humain et automatisé pour détecter les messages problématiques.;3
+320;Le réseau social a recruté un nombre important de nouveaux utilisateurs en janvier.;2
+321;C’est une question que se posent avec insistance les autorités politiques et sanitaires ces dernières semaines.;3
+322;Quelle est l’efficacité réelle de la lutte contre la désinformation menée à grand renfort de communication par les réseaux sociaux ?;3
+323;Après mûre réflexion, la Commission européenne a eu une idée brillante: s'attaquer à un nouveau chantier, qui avait jusque-là bizarrement échappé à sa sagacité légendaire.;4
+324;Elle va lutter contre les «fake news», ces «fausses nouvelles» qui troubleraient le jugement des honnêtes citoyens au point de les pousser dans les bras des affreux populistes, tels que le méchant Donald Trump ou les infâmes «Brexiters» d'outre-Manche.;4
+325;lle vient de lancer une consultation publique sur le sujet.;3
+326;Voilà qui serait en effet de nature à simplifier sensiblement débats et controverses.;3
+327;Bien sûr, on arguera que l'on caricature ici la position de la Commission, dont l'objectif ne serait évidemment pas d'attenter à la liberté d'expression .;4
+328;Bruxelles est en droit de défendre les politiques qu'elle conduit.;2
+329;On serait davantage enclin à adhérer à cette thèse.;3
+330;Les normes européennes sont absurdes et nous étouffent.;3
+331;N'avait-elle pas promis que les politiques économiques menées en Europe apporteraient la prospérité et le plein-emploi ?;4
+332;Il faut commencer par dire que l'Union européenne n'est pas l'Europe.;2
+333;C'est un ensemble de pays qui s'efforcent de s'ajuster les uns aux autres depuis des siècles, souvent en s'opposant durement mais aussi en collaborant.;3
+334;Vos enfants sont très bien élevés.;1
+335;Quel films est-ce que tu préfères ? ;1
+336;Où est-ce que tu travaillais avant d'être avec nous ici ? ;2
+337;Cette voiture ressemble à ma voiture. ;0
+338;Elle est plus âgée que moi. ;0
+339;Est-ce que ton mari est aussi de Boston? ;0
+340;Je suis allergique aux fruits de mer. ;1
+341;Je ne me sens pas bien.;0
+342;As-tu besoin de quelque chose? ;0
+343;Je ne me le suis jamais demandé. ;1
+344;C'est une question de point de vue. ;1
+345;De mes fenêtres, je vois la Seine qui coule, le long de mon jardin, derrière la route, presque chez moi, la grande et large Seine qui va de Rouen au Havre, couverte de bateaux qui passent.;3
+346;"J’ai un peu de fièvre depuis quelques jours ; je me sens souffrant, ou plutôt je me sens triste.";3
+347;Tout ce qui nous entoure, tout ce que nous voyons sans le regarder, tout ce que nous frôlons sans le connaître, tout ce que nous touchons sans le palper, tout ce que nous rencontrons sans le distinguer, a sur nous, sur nos organes et, par eux, sur nos idées, sur notre cœur lui-même, des effets rapides, surprenants et inexplicables.;5
+348;Je viens d’aller consulter un médecin, car je ne pouvais plus dormir.;2
+349;Vers dix heures, je monte dans ma chambre.;1
+350;Et soudain, je m’éveille, affolé, couvert de sueur.;2
+351;Après cette crise, qui se renouvelle toutes les nuits, je dors enfin, avec calme, jusqu’à l’aurore;3
+352;Un frisson me saisit soudain, non pas un frisson de froid, mais un étrange frisson d’angoisse.;3
+353;La mer était basse, comme la veille au soir, et je regardais se dresser devant moi, à mesure que j’approchais d’elle, la surprenante abbaye.;3
+354;Après plusieurs heures de marche, j’atteignis l’énorme bloc de pierre qui porte la petite cité dominée par la grande église.;3
+355;Et le moine me conta des histoires, toutes les vieilles histoires de ce lieu, des légendes, toujours des légendes.;3
+356;Je me tus devant ce simple raisonnement. ;2
+357;Je le contemplais avec des yeux fixes, cherchant à deviner.;2
+358;Je viens de faire des épreuves surprenantes.;2
+359;Le 8 juillet, j’ai supprimé l’eau et le lait.;1
+360;L’invincible sommeil m’a saisi, suivi bientôt de l’atroce réveil.;3
+361;Oui, je suis à Paris depuis vingt jours à peine.;0
+362;J’entre aux gardes demain, dans les Cadets;3
+363;Tout le bel air !;2
+364;Tiens, monsieur de Corneille est arrivé de Rouen.;0
+365;La dame ne vient pas.;0
+366;Je retourne à mon vice !;1
+367;Je ne suis qu’un bon soldat timide.;2
+368;Monsieur avez-vous vu monsieur de Cyrano ?;0
+369;Taisez-vous, Mécène que vous êtes !;1
+370;Vous payez en gâteaux vos billets de théâtre !;1
+371;Votre place, aujourd’hui, là, voyons, entre nous, vous a coûté combien ?;1
+372;Monsieur de Cyrano n’est pas là ?;0
+373;En effet, cette tonne va nous jouer ce soir le rôle de Phédon.;2
+374;Il fit à Montfleury, messieurs, qu’il prit en haine, défense, pour un mois, de reparaître en scène.;3
+375;Quel est cet animal ?;0
+376;Montrant un gentilhomme qui va et vient dans la salle comme s’il cherchait quelqu’un.;2
+377;N’est-ce pas que cet homme est des moins ordinaires ?;3
+378;Et quel aspect hétéroclite que le sien !;3
+379;Je veux espérer qu’il n’a pas vu l’affiche !;1
+380;Quelle couleur, comte de Guiche ?;0
+381;La chose me vient d’être certifiée.;2
+382;Une plantation de bois sur vos épaules ?;1
+383;Que les marquis se taisent sur leurs bancs, ou bien je fais tâter ma canne à leurs rubans !;4
+384;Que Montfleury s’en aille, ou bien je l’essorille et le désentripaille !;4
+385;Découpez-moi cette mortadelle d’Italie !;2
+386;"Si vous continuez, il va rendre sa lame !";3
+387;Voulez-vous me prêter, Monsieur, votre chapeau ?;2
+388;C’est scandaleux !;0
+389;Je vous ordonne de vous taire !;1
+390;Et j’adresse un défi collectif au parterre !;3
+391;J’inscris les noms !;0
+392;"Approchez-vous, jeunes héros !";1
+393;En rang par deux, et chacun son tour prenez un biscuit !;1
+394;Je vais donner des numéros !;0
+395;Allons, qui est celui qui veut ouvrir la liste ?;2
+396;Le premier duelliste, je l’expédie avec les honneurs qu’on lui doit !;3
+397;Que tous ceux qui veulent mourir lèvent le doigt.;2
+398;La pudeur vous défend de voir ma lame nue ?;3
+399;Se retournant vers la scène où Montfleury attend avec angoisse.;2
+400;Donc, je désire voir le théâtre guéri de cette fluxion.;3
